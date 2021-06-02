@@ -1,0 +1,16 @@
+c:\users\fábio\documents\visual studio 2010\Projects\AulaXNA3D004\AulaXNA3D004\AulaXNA3D004\bin\x86\Debug\Content\Effects\Effect1.xnb
+c:\users\fábio\documents\visual studio 2010\Projects\AulaXNA3D004\AulaXNA3D004\AulaXNA3D004\bin\x86\Debug\Content\Textures\logoJD.xnb
+c:\users\fábio\documents\visual studio 2010\Projects\AulaXNA3D004\AulaXNA3D004\AulaXNA3D004\bin\x86\Debug\AulaXNA3D004.exe
+c:\users\fábio\documents\visual studio 2010\Projects\AulaXNA3D004\AulaXNA3D004\AulaXNA3D004\bin\x86\Debug\AulaXNA3D004.pdb
+c:\users\fábio\documents\visual studio 2010\Projects\AulaXNA3D004\AulaXNA3D004\AulaXNA3D004\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\fábio\documents\visual studio 2010\Projects\AulaXNA3D004\AulaXNA3D004\AulaXNA3D004\obj\x86\Debug\AulaXNA3D004.exe
+c:\users\fábio\documents\visual studio 2010\Projects\AulaXNA3D004\AulaXNA3D004\AulaXNA3D004\obj\x86\Debug\AulaXNA3D004.pdb
+C:\Users\Fábio\Documents\Visual Studio 2010\Projects\AulaXNA3D004\AulaXNA3D004\AulaXNA3D004\obj\x86\Debug\AulaXNA3D004.csprojResolveAssemblyReference.cache
+G:\Documentos\Visual Studio 2010\Projects\AulaXNA3D004\AulaXNA3D004\AulaXNA3D004\bin\x86\Debug\Content\Effects\Effect1.xnb
+G:\Documentos\Visual Studio 2010\Projects\AulaXNA3D004\AulaXNA3D004\AulaXNA3D004\bin\x86\Debug\Content\Textures\logoJD.xnb
+G:\Documentos\Visual Studio 2010\Projects\AulaXNA3D004\AulaXNA3D004\AulaXNA3D004\bin\x86\Debug\AulaXNA3D004.exe
+G:\Documentos\Visual Studio 2010\Projects\AulaXNA3D004\AulaXNA3D004\AulaXNA3D004\bin\x86\Debug\AulaXNA3D004.pdb
+G:\Documentos\Visual Studio 2010\Projects\AulaXNA3D004\AulaXNA3D004\AulaXNA3D004\obj\x86\Debug\AulaXNA3D004.csprojResolveAssemblyReference.cache
+G:\Documentos\Visual Studio 2010\Projects\AulaXNA3D004\AulaXNA3D004\AulaXNA3D004\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Documentos\Visual Studio 2010\Projects\AulaXNA3D004\AulaXNA3D004\AulaXNA3D004\obj\x86\Debug\AulaXNA3D004.exe
+G:\Documentos\Visual Studio 2010\Projects\AulaXNA3D004\AulaXNA3D004\AulaXNA3D004\obj\x86\Debug\AulaXNA3D004.pdb

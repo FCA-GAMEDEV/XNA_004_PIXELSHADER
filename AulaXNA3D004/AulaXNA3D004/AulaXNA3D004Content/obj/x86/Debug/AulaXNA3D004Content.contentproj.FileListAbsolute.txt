@@ -1,0 +1,2 @@
+C:\Users\Fábio\Documents\Visual Studio 2010\Projects\AulaXNA3D004\AulaXNA3D004\AulaXNA3D004Content\obj\x86\Debug\AulaXNA3D004Content.contentprojResolveAssemblyReference.cache
+G:\Documentos\Visual Studio 2010\Projects\AulaXNA3D004\AulaXNA3D004\AulaXNA3D004Content\obj\x86\Debug\AulaXNA3D004Content.contentprojResolveAssemblyReference.cache
